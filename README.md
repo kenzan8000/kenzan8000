@@ -4,5 +4,4 @@
 
 # Links
 
-- [Blog](https://kenzan8000.org)
-- [Portfolio](https://kenzan8000.org/portofolio/)
+- [Website](https://kenzan8000.org)
