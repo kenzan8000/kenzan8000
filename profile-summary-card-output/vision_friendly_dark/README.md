@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/kenzan8000/kenzan8000/master/profile-summary-card-output/vision_friendly_dark/4-productive-time.svg)
+```
+
+    
